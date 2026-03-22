@@ -29,48 +29,10 @@ I love to make software, learn new things, video games, animation, and music! I 
 
 ---
 
-<h2 align="center">🌟 Featured Projects</h2>
-
 <div align="center">
 
-<table bgcolor="#0d1117" border="0" cellspacing="0" cellpadding="4" style="background-color:#0d1117;border:none;">
-  <tr>
-    <td width="50%" bgcolor="#0d1117" style="background-color:#0d1117;border:none;">
-      <a href="https://github.com/Angel2mp3/AudioAuditor">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Angel2mp3&repo=AudioAuditor&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9&hide_border=true&description_lines_count=3" />
-      </a>
-    </td>
-    <td width="50%" bgcolor="#0d1117" style="background-color:#0d1117;border:none;">
-      <a href="https://github.com/Angel2mp3/Grok-Enhancer">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Angel2mp3&repo=Grok-Enhancer&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9&hide_border=true&description_lines_count=3" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" bgcolor="#0d1117" style="background-color:#0d1117;border:none;">
-      <a href="https://github.com/Angel2mp3/Pinterest-Power-Menu">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Angel2mp3&repo=Pinterest-Power-Menu&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9&hide_border=true&description_lines_count=3" />
-      </a>
-    </td>
-    <td width="50%" bgcolor="#0d1117" style="background-color:#0d1117;border:none;">
-      <a href="https://github.com/Angel2mp3/Bring-Back-Netflix-Icons">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Angel2mp3&repo=Bring-Back-Netflix-Icons&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9&hide_border=true&description_lines_count=3" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<h2 align="center">📊 Stats</h2>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angel2mp3&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9&hide_border=true&show_icons=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Angel2mp3&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6e40c9&sideLabels=6e40c9&dates=888888&hide_border=true&width=495)
+<img src="https://github-readme-stats.vercel.app/api?username=Angel2mp3&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9&hide_border=true&show_icons=true&count_private=true&width=400" height="165" />
+<img src="https://streak-stats.demolab.com?user=Angel2mp3&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6e40c9&sideLabels=6e40c9&dates=888888&hide_border=true&width=400" height="165" />
 
 </div>
 
