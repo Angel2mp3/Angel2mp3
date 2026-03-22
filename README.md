@@ -7,7 +7,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/angelmakes.software-6e40c9?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://angelmakes.software/)
-[![AudioAuditor](https://img.shields.io/badge/audioauditor.org-1a1a2e?style=for-the-badge&logo=audacity&logoColor=white)](https://audioauditor.org/)
+[![AudioAuditor](https://img.shields.io/badge/audioauditor.org-4f50c6?style=for-the-badge&logo=audacity&logoColor=white)](https://audioauditor.org/)
 [![PasteDrop](https://img.shields.io/badge/pastedrop-e99510?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxNmwtNi02aDRWNGg0djZoNGwtNiA2em0tNiAyaDEydjJINnYtMnoiLz48L3N2Zz4=&logoColor=white)](https://pastedrop.angelmakes.software/)
 [![LinkDetoxer](https://img.shields.io/badge/linkdetoxer-13252a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zLjkgMTJjMC0xLjcxIDEuMzktMy4xIDMuMS0zLjFoNFY3SDdjLTIuNzYgMC01IDIuMjQtNSA1czIuMjQgNSA1IDVoNHYtMS45SDdjLTEuNzEgMC0zLjEtMS4zOS0zLjEtMy4xek04IDEzaDh2LTJIOHYyem05LTZoLTR2MS45aDRjMS43MSAwIDMuMSAxLjM5IDMuMSAzLjFzLTEuMzkgMy4xLTMuMSAzLjFoLTRWMTdoNGMyLjc2IDAgNS0yLjI0IDUtNXMtMi4yNC01LTUtNXoiLz48L3N2Zz4=&logoColor=white)](https://linkdetoxer.angelmakes.software/)
 
