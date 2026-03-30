@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel2mp3&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9&hide_border=true&layout=compact" />
+<img align="right" width="380" src="https://github-stats-angel2mp3s-projects.vercel.app/api/top-langs/?username=Angel2mp3&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9&hide_border=true&layout=compact" />
 
 <h3 align="center">About Me</h3>
 
@@ -32,8 +32,7 @@ I love to make software, learn new things, video games, animation, and music! I 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Angel2mp3&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9&hide_border=true&show_icons=true&count_private=true&width=400" height="165" />
-<img src="https://streak-stats.demolab.com?user=Angel2mp3&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6e40c9&sideLabels=6e40c9&dates=888888&hide_border=true&width=400" height="165" />
+<img src="https://github-stats-angel2mp3s-projects.vercel.app/api?username=Angel2mp3&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9&hide_border=true&show_icons=true&count_private=true&width=400" height="300" />
 
 </div>
 
